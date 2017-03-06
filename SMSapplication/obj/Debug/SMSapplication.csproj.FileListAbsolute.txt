@@ -1,0 +1,10 @@
+D:\Source\SMSapplication\SMSapplication\bin\Debug\SMSapplication.exe
+D:\Source\SMSapplication\SMSapplication\bin\Debug\SMSapplication.pdb
+D:\Source\SMSapplication\SMSapplication\obj\Debug\SMSapplication.csprojResolveAssemblyReference.cache
+D:\Source\SMSapplication\SMSapplication\obj\Debug\SMSapplication.SMSapplication.resources
+D:\Source\SMSapplication\SMSapplication\obj\Debug\SMSapplication.Properties.Resources.resources
+D:\Source\SMSapplication\SMSapplication\obj\Debug\SMSapplication.csproj.GenerateResource.Cache
+D:\Source\SMSapplication\SMSapplication\obj\Debug\SMSapplication.exe
+D:\Source\SMSapplication\SMSapplication\obj\Debug\SMSapplication.pdb
+D:\Work\Demo\SMSapplication\SMSapplication\obj\Debug\SMSapplication.exe
+D:\Work\Demo\SMSapplication\SMSapplication\obj\Debug\SMSapplication.pdb
