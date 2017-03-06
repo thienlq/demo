@@ -13,7 +13,8 @@ namespace MY_SMS_Application
     public class clsSMS
     {
         //public SerialPort port;
-
+ 
+ 
         //Open Port
         public SerialPort OpenPort(string strPortName, string strBaudRate)
         {
@@ -21,7 +22,7 @@ namespace MY_SMS_Application
             SerialPort port = new SerialPort();
             port.PortName = strPortName;
             port.BaudRate = Convert.ToInt32(strBaudRate);               //updated by Anila (9600)
-            port.DataBits = 8;
+            port.DataBits = 8; 
             port.StopBits = StopBits.One;
             port.Parity = Parity.None;
             port.ReadTimeout = 300;
